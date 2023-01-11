@@ -1,8 +1,8 @@
 # RTE
 
 ## Related information
-Here is the code of "Self-supervised rigid transformation equivariance for accurate 3D point cloud registration" (``https://www.sciencedirect.com/science/article/pii/S0031320322002655``), which proposes a rigid transformation equivarance for point cloud rigistration.
-
+<!--Here is the code of "Self-supervised rigid transformation equivariance for accurate 3D point cloud registration" (``https://www.sciencedirect.com/science/article/pii/S0031320322002655``), which proposes a rigid transformation equivarance for point cloud rigistration.-->
+Here is the RTE code.
 <!--Note: the code is being prepared. -->
 
 ## Implementation
@@ -25,7 +25,7 @@ python main.py --eval True --mdoel_path YOUR_CHECKPOINT_DIRECTORY
 
 ## Acknowledgement
 The code is insipred by DCP, PRNet, RPMNet, etc.
-
+<!--
 ## Please cite:
 ```
 @ARTICLE{zhang_rte_pr_2022,
@@ -36,3 +36,4 @@ The code is insipred by DCP, PRNet, RPMNet, etc.
   pages     = {108784},
   year      = {2022}}
 ```
+-->
